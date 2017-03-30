@@ -1,2 +1,1 @@
-# PingendoProjects
-This repository contains the projects that I've tried out on the Pingendo editor
+Projects done using Pingendo editor.
